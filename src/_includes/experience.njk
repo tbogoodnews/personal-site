@@ -1,0 +1,15 @@
+<ol class="timeline" role="list">
+  {% for job in experience %}
+  {% set translation = job[language] %}
+  <li>
+    <p class="period">
+      <time datetime="{{ job.start }}">{{ translation.start }}</time> -
+      {% if job.end %}<time datetime="{{ job.end }}">{{ translation.end }}</time>{% else %}{{ translation.end }}{% endif %}
+    </p>
+    <div>
+      <h3>{{ translation.role }} <span class="organization">/ {{ job.organization }}</span></h3>
+      <p>{{ translation.summary }}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ol>

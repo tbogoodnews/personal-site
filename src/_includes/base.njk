@@ -1,0 +1,40 @@
+{% set locale = languages[language] %}
+<!doctype html>
+<html lang="{{ language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ locale.description }}">
+    <meta name="referrer" content="no-referrer">
+    <meta name="color-scheme" content="light">
+    <title>{{ locale.title }} | tbogoodnews</title>
+    {% for code, translation in languages %}
+    <link rel="alternate" hreflang="{{ code }}" href="{{ translation.path | url }}">
+    {% endfor %}
+    <link rel="alternate" hreflang="x-default" href="{{ '/' | url }}">
+    <link rel="icon" href="{{ '/assets/favicon.svg' | url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#about">{{ locale.skipLink }}</a>
+    <div class="page">
+      <header>
+        <div class="masthead">
+          <span class="handle">tbogoodnews</span>
+          <nav aria-label="{{ locale.socialLinksLabel }}">
+            <a href="https://github.com/tbogoodnews" rel="me noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/taylor-blair-ds/" rel="me noreferrer">LinkedIn</a>
+          </nav>
+        </div>
+        <nav class="languages" aria-label="{{ locale.languageLinksLabel }}">
+          {% for code, translation in languages %}
+          <a href="{{ translation.path | url }}" lang="{{ code }}" hreflang="{{ code }}"{% if code == language %} aria-current="page"{% endif %}>{{ translation.name }}</a>
+          {% endfor %}
+        </nav>
+      </header>
+      <main id="about" tabindex="-1">
+        {{ content | safe }}
+      </main>
+    </div>
+  </body>
+</html>

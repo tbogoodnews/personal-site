@@ -1,0 +1,147 @@
+[
+  {
+    "organization": "Microsoft",
+    "start": "2024-06",
+    "end": null,
+    "en": {
+      "start": "Jun 2024",
+      "end": "present",
+      "role": "Data Scientist",
+      "summary": "Product analytics for GitHub Copilot: usage, retention, AI model evaluation, and model economics. I build dashboards and investigate changes in product and model performance."
+    },
+    "fr": {
+      "start": "Juin 2024",
+      "end": "aujourd'hui",
+      "role": "Data scientist",
+      "summary": "Analyse des usages de GitHub Copilot : fidélisation, évaluation des modèles d'IA et coûts. Je crée des tableaux de bord et j'étudie les évolutions des performances du produit et des modèles."
+    },
+    "de": {
+      "start": "Juni 2024",
+      "end": "heute",
+      "role": "Data Scientist",
+      "summary": "Produktanalysen für GitHub Copilot: Nutzung, Nutzerbindung, KI-Modellbewertung und Modellkosten. Ich erstelle Dashboards und untersuche Veränderungen in der Produkt- und Modellleistung."
+    },
+    "it": {
+      "start": "Giu 2024",
+      "end": "oggi",
+      "role": "Data scientist",
+      "summary": "Analisi di prodotto per GitHub Copilot: utilizzo, fidelizzazione, valutazione e costi dei modelli di IA. Creo dashboard e studio le variazioni nelle prestazioni del prodotto e dei modelli."
+    }
+  },
+  {
+    "organization": "Microsoft",
+    "start": "2023-05",
+    "end": "2023-08",
+    "en": {
+      "start": "May 2023",
+      "end": "Aug 2023",
+      "role": "Data Science Intern",
+      "summary": "Analyzed usage of Data Wrangler and retention for Dev Box using R and Kusto. Built time-series forecasts for the VS Code Jupyter extension."
+    },
+    "fr": {
+      "start": "Mai 2023",
+      "end": "Août 2023",
+      "role": "Stage en science des données",
+      "summary": "Analyse des usages de Data Wrangler et de la fidélisation sur Dev Box avec R et Kusto. Prévisions de séries temporelles pour l'extension Jupyter de VS Code."
+    },
+    "de": {
+      "start": "Mai 2023",
+      "end": "Aug. 2023",
+      "role": "Praktikum Data Science",
+      "summary": "Nutzungsanalysen für Data Wrangler und Analysen zur Nutzerbindung bei Dev Box mit R und Kusto. Zeitreihenprognosen für die Jupyter-Erweiterung von VS Code."
+    },
+    "it": {
+      "start": "Mag 2023",
+      "end": "Ago 2023",
+      "role": "Stage in data science",
+      "summary": "Analisi dell'utilizzo di Data Wrangler e della fidelizzazione su Dev Box con R e Kusto. Previsioni di serie temporali per l'estensione Jupyter di VS Code."
+    }
+  },
+  {
+    "organization": "Microsoft",
+    "start": "2022-05",
+    "end": "2022-08",
+    "en": {
+      "start": "May 2022",
+      "end": "Aug 2022",
+      "role": "Software Engineering Intern",
+      "summary": "Refactored the Azure Cloud Shell frontend with React and Fluent UI. Built an Azure DevOps deployment pipeline and a Playwright test suite."
+    },
+    "fr": {
+      "start": "Mai 2022",
+      "end": "Août 2022",
+      "role": "Stage en développement logiciel",
+      "summary": "Refonte de l'interface d'Azure Cloud Shell avec React et Fluent UI. Création d'un pipeline de déploiement Azure DevOps et d'une suite de tests Playwright."
+    },
+    "de": {
+      "start": "Mai 2022",
+      "end": "Aug. 2022",
+      "role": "Praktikum Softwareentwicklung",
+      "summary": "Überarbeitung des Azure-Cloud-Shell-Frontends mit React und Fluent UI. Aufbau einer Azure-DevOps-Deployment-Pipeline und einer Playwright-Testsuite."
+    },
+    "it": {
+      "start": "Mag 2022",
+      "end": "Ago 2022",
+      "role": "Stage in ingegneria del software",
+      "summary": "Refactoring dell'interfaccia di Azure Cloud Shell con React e Fluent UI. Creazione di una pipeline di distribuzione in Azure DevOps e di una suite di test Playwright."
+    }
+  },
+  {
+    "organization": "Reed College",
+    "start": "2021-05",
+    "end": "2022-05",
+    "en": {
+      "start": "May 2021",
+      "end": "May 2022",
+      "role": "Data Analyst Intern",
+      "summary": "Studied career-exploration opportunities and analyzed fellowship and award data over time using R."
+    },
+    "fr": {
+      "start": "Mai 2021",
+      "end": "Mai 2022",
+      "role": "Stage en analyse de données",
+      "summary": "Étude d'opportunités d'orientation professionnelle et analyse longitudinale de données sur les bourses et les prix avec R."
+    },
+    "de": {
+      "start": "Mai 2021",
+      "end": "Mai 2022",
+      "role": "Praktikum Datenanalyse",
+      "summary": "Untersuchung von Möglichkeiten zur Berufsorientierung und Längsschnittanalyse von Daten zu Stipendien und Auszeichnungen mit R."
+    },
+    "it": {
+      "start": "Mag 2021",
+      "end": "Mag 2022",
+      "role": "Stage in analisi dei dati",
+      "summary": "Studio di opportunità di orientamento professionale e analisi nel tempo di dati su borse di studio e premi con R."
+    }
+  },
+  {
+    "organization": "Reed College",
+    "start": "2021-06",
+    "end": "2021-08",
+    "en": {
+      "start": "Jun 2021",
+      "end": "Aug 2021",
+      "role": "Research Assistant",
+      "summary": "Investigated readability in computer systems research papers with R and Python. Presented the work at Reed's summer research poster session."
+    },
+    "fr": {
+      "start": "Juin 2021",
+      "end": "Août 2021",
+      "role": "Stage de recherche",
+      "summary": "Étude de la lisibilité d'articles de recherche en systèmes informatiques avec R et Python. Présentation des résultats lors de la session d'affiches de recherche d'été de Reed."
+    },
+    "de": {
+      "start": "Juni 2021",
+      "end": "Aug. 2021",
+      "role": "Forschungsassistenz",
+      "summary": "Untersuchung der Lesbarkeit wissenschaftlicher Artikel über Computersysteme mit R und Python. Präsentation der Ergebnisse auf der Sommer-Postersession am Reed College."
+    },
+    "it": {
+      "start": "Giu 2021",
+      "end": "Ago 2021",
+      "role": "Assistente di ricerca",
+      "summary": "Studio della leggibilità degli articoli di ricerca sui sistemi informatici con R e Python. Presentazione dei risultati alla sessione estiva di poster di ricerca di Reed."
+    }
+  }
+]

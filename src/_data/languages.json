@@ -1,0 +1,42 @@
+{
+  "en": {
+    "name": "English",
+    "path": "/",
+    "title": "About me",
+    "description": "A little about my work in data science, developer tools, and machine learning.",
+    "skipLink": "Skip to content",
+    "socialLinksLabel": "Find me elsewhere",
+    "languageLinksLabel": "Language",
+    "photoAlt": "Me looking at a golden bird sculpture."
+  },
+  "fr": {
+    "name": "Français",
+    "path": "/fr/",
+    "title": "À propos",
+    "description": "Quelques mots sur mon travail en science des données, outils de développement et apprentissage automatique.",
+    "skipLink": "Aller au contenu",
+    "socialLinksLabel": "Me retrouver ailleurs",
+    "languageLinksLabel": "Langue",
+    "photoAlt": "Moi devant une sculpture d'oiseau doré."
+  },
+  "de": {
+    "name": "Deutsch",
+    "path": "/de/",
+    "title": "Über mich",
+    "description": "Ein wenig über meine Arbeit mit Daten, Entwicklertools und maschinellem Lernen.",
+    "skipLink": "Zum Inhalt springen",
+    "socialLinksLabel": "Weitere Profile",
+    "languageLinksLabel": "Sprache",
+    "photoAlt": "Ich vor einer goldenen Vogelskulptur."
+  },
+  "it": {
+    "name": "Italiano",
+    "path": "/it/",
+    "title": "Chi sono",
+    "description": "Qualche parola sul mio lavoro con dati, strumenti per sviluppatori e apprendimento automatico.",
+    "skipLink": "Vai al contenuto",
+    "socialLinksLabel": "Altri profili",
+    "languageLinksLabel": "Lingua",
+    "photoAlt": "Io davanti a una scultura di un uccello dorato."
+  }
+}
