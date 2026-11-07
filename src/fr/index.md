@@ -24,10 +24,10 @@ topologique des données appliquée aux schémas d'accès au cache.
 
 **Langages :** Python, R, SQL, TypeScript.
 
-**Outils :** pandas, Polars, scikit-learn, PyTorch, Kusto, Power BI, Git, React.
+**Outils :** pandas, Polars, scikit-learn, PyTorch, Kusto, Trino, Airflow, Power BI, Git, React.
 
-**Méthodes :** analyse des usages, évaluation de modèles, prévision de séries
-temporelles, modélisation prédictive, visualisation de données.
+**Méthodes :** analyse des usages, évaluation de modèles, analyse de survie,
+fidélisation par cohorte, économie unitaire et analyse des causes profondes.
 
 ## Ce qui m'intéresse
 

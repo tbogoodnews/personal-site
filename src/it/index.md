@@ -24,10 +24,10 @@ topologica dei dati ai pattern di accesso alla cache.
 
 **Linguaggi:** Python, R, SQL, TypeScript.
 
-**Strumenti:** pandas, Polars, scikit-learn, PyTorch, Kusto, Power BI, Git, React.
+**Strumenti:** pandas, Polars, scikit-learn, PyTorch, Kusto, Trino, Airflow, Power BI, Git, React.
 
-**Metodi:** analisi di prodotto, valutazione dei modelli, previsione di serie
-temporali, modellazione predittiva, visualizzazione dei dati.
+**Metodi:** analisi di prodotto, valutazione dei modelli, analisi di sopravvivenza,
+fidelizzazione per coorte, economia unitaria e analisi delle cause.
 
 ## Cosa mi interessa
 

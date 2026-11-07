@@ -24,10 +24,10 @@ topologische Datenanalyse auf Cache-Zugriffsmuster angewendet.
 
 **Sprachen:** Python, R, SQL, TypeScript.
 
-**Werkzeuge:** pandas, Polars, scikit-learn, PyTorch, Kusto, Power BI, Git, React.
+**Werkzeuge:** pandas, Polars, scikit-learn, PyTorch, Kusto, Trino, Airflow, Power BI, Git, React.
 
-**Methoden:** Produktanalysen, Modellbewertung, Zeitreihenprognosen,
-prädiktive Modellierung, Datenvisualisierung.
+**Methoden:** Produktanalysen, Modellbewertung, Überlebenszeitanalyse,
+Kohortenbindung, Wirtschaftlichkeit pro Einheit und Ursachenanalyse.
 
 ## Was mich interessiert
 

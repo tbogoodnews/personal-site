@@ -7,25 +7,25 @@
       "start": "Jun 2024",
       "end": "present",
       "role": "Data Scientist",
-      "summary": "Product analytics for GitHub Copilot: usage, retention, AI model evaluation, and model economics. I build dashboards and investigate changes in product and model performance."
+      "summary": "Analyze GitHub Copilot usage, model quality, performance, and economics. I investigate issues and help inform model selection, pricing, and product decisions."
     },
     "fr": {
       "start": "Juin 2024",
       "end": "aujourd'hui",
       "role": "Data scientist",
-      "summary": "Analyse des usages de GitHub Copilot : fidélisation, évaluation des modèles d'IA et coûts. Je crée des tableaux de bord et j'étudie les évolutions des performances du produit et des modèles."
+      "summary": "J'analyse les usages de GitHub Copilot, ainsi que la qualité, les performances et les coûts des modèles. J'étudie les problèmes et contribue aux décisions sur les modèles, les tarifs et le produit."
     },
     "de": {
       "start": "Juni 2024",
       "end": "heute",
       "role": "Data Scientist",
-      "summary": "Produktanalysen für GitHub Copilot: Nutzung, Nutzerbindung, KI-Modellbewertung und Modellkosten. Ich erstelle Dashboards und untersuche Veränderungen in der Produkt- und Modellleistung."
+      "summary": "Ich analysiere die Nutzung von GitHub Copilot sowie Qualität, Leistung und Kosten von Modellen. Ich untersuche Probleme und unterstütze Entscheidungen zu Modellauswahl, Preisen und Produktentwicklung."
     },
     "it": {
       "start": "Giu 2024",
       "end": "oggi",
       "role": "Data scientist",
-      "summary": "Analisi di prodotto per GitHub Copilot: utilizzo, fidelizzazione, valutazione e costi dei modelli di IA. Creo dashboard e studio le variazioni nelle prestazioni del prodotto e dei modelli."
+      "summary": "Analizzo l'utilizzo di GitHub Copilot, la qualità, le prestazioni e i costi dei modelli. Esamino i problemi e contribuisco alle decisioni su scelta dei modelli, prezzi e prodotto."
     }
   },
   {

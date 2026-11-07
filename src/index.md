@@ -24,10 +24,10 @@ data analysis to cache patterns.
 
 **Languages:** Python, R, SQL, TypeScript.
 
-**Tools:** pandas, Polars, scikit-learn, PyTorch, Kusto, Power BI, Git, React.
+**Tools:** pandas, Polars, scikit-learn, PyTorch, Kusto, Trino, Airflow, Power BI, Git, React.
 
-**Methods:** product analytics, model evaluation, time-series forecasting,
-predictive modeling, data visualization.
+**Methods:** product analytics, model evaluation, survival analysis, cohort
+retention, unit economics, and root-cause analysis.
 
 ## What I like
 
